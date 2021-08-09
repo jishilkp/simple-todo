@@ -4,9 +4,10 @@ It is a simple React web application to note down the tasks. It is a self-learni
 
 ## Screenshots
 <div align="center">
-   <img src="/screenshots/New-Todo.png" width="200px"</img>
+   <img src="src/Screenshots/New-Todo.png" width="200px"</img>
    <span/>
-   <img src="/screenshots/ToDo-List.png" width="200px"</img>
+   </br>
+   <img src="src/Screenshots/Todo-List.png" width="200px"</img>
 </div>
 
 ### Setup
